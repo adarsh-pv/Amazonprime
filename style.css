@@ -1,0 +1,379 @@
+*{
+    margin:0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.main{
+    width: 100%;
+    height:80px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    z-index: 1;
+    
+    
+}
+
+.head{
+    width:100%;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5cm;
+    cursor: pointer;
+    
+    
+
+}
+.a1{
+    margin-left: 16px;
+    text-decoration:none ;
+    font-family: Arial,sans-serif;
+    color: #8197a4;
+    font-size: 17px;
+}
+.a2{
+    margin-left: 10px;
+    text-decoration: none;
+    color: #8197a4;
+    font-size: 17px;
+}
+.a3{
+    margin-left: 10px;
+    text-decoration: none;
+    color: #8197a4;
+    font-size: 17px;
+}
+.a4{
+    margin-left: 10px;
+    text-decoration: none;
+    color: #8197a4;
+    font-size: 17px;
+}
+.select{
+    background-color: rgba(0, 0, 0,0.3);
+    color:#8197a4;
+    border-style: hidden;
+    font-size: 17px;
+    margin-left: 7px;
+    cursor: pointer;
+
+}
+.a5{
+    margin-left: 10px;
+    text-decoration: none;
+    color: #8197a4;
+    font-size: 17px;
+}
+.head1{
+    width: 58%;
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+
+    
+    
+}
+.button{
+    width:129px;
+    height:44px;
+    background-color: #0f79af;
+    border-radius: 7px;
+}
+.button:hover{
+    background-color: #1399de;
+}
+.img{
+    width:112px;
+    cursor: pointer;
+    
+}
+.img1{
+    width:30px;
+    height: auto;
+    margin-left: 14px;
+    cursor: pointer;
+
+}
+.img2{
+    width: 30px;
+    height: auto;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.img3{
+    width:20px;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
+.body1{
+    width:100%;
+   height:481px;
+  background-image: url(amazonphotos/prime.jpeg);
+background-size: cover;
+
+}
+.heading{
+    color:white;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 142px;
+    font-weight: lighter;
+}
+.subheading{
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 22px;
+}
+.butten{
+    width:280px;
+    height:48px;
+    margin-left: 50px;
+    color: white;
+    margin-top: 20px;
+    background-color: #0f79af;
+    cursor: pointer;
+    border-radius: 7px;
+}
+.butten:hover{
+    background-color: #00a0d6;
+}
+.sub{
+    color: white;
+    margin-left: 80px;
+    font-size: 14.4px;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+}
+.body2{
+    width:100%;
+    height:481px;
+   background-image: url(amazonphotos/prime2.jpeg);
+ background-size: cover;
+
+}
+.secondheading{
+    color:white;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-weight: lighter;
+
+}
+.secondsubheading{
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 22px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+}
+.button1{
+    width:280px;
+    color: white;
+    height:48px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: #0f79af;
+    cursor: pointer;
+    border-radius: 7px;
+}
+.button:hover{
+    background-color: #00a0d6;
+}
+
+.body3{
+    width: 1519px;
+    height: 535px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: inherit;
+    object-fit: cover;
+    
+}
+.subbody1{
+    width:50%;
+    height: 497px;
+   background-color: white;
+    
+}
+.thirdheading{
+    color:black;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-weight: lighter;
+
+}
+.thirdpara{
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 22px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+
+}
+.subbody2{
+    width:50%;
+    height: 497px;
+    padding: 18px;
+    
+}
+.img4{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img5{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.ing5{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img6{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img7{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img8{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img9{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img10{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img11{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.img12{
+    width: 31%;
+    height: 145px;
+    cursor: pointer;
+}
+.body4{
+    width:100%;
+    height:481px;
+   background-image: url(amazonphotos/prime11.jpeg);
+ background-size: cover;
+
+}
+.forthheading{
+    color:white;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-left: 875px;
+    margin-top: 60px;
+    font-weight: lighter;
+
+}
+.forthpara{
+    color: white;
+    margin-left: 875px;
+    margin-top: 25px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+
+}
+.forthbutten{
+    width:280px;
+    height:48px;
+    color: white;
+    margin-left: 875px;
+    margin-top: 46px;
+    background-color: #0f79af;
+    cursor: pointer;
+    border-radius: 7px;
+}
+.forthbutten:hover{
+    background-color: #00a0d6;
+}
+.body5{
+width:100%;
+height:481px;
+background-image: url(amazonphotos/prime12.jpg);
+background-size: cover;
+
+    
+}
+.fifthheading{
+    color:white;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-weight: lighter;
+}
+.fifthpara{
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 22px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+
+}
+
+.fifthbutten{
+    width:280px;
+    color: white;
+    height:48px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: #0f79af;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.mainfooter{
+    width: 1519px;
+    height: 117px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color:#222222;
+}  
+.footerimage{
+    align-self: center;
+     
+} 
+.footerline{
+    align-self: center;
+} 
+.footerpara{
+    color:#00a0d6;
+}
+.footerpara2 {
+
+    color: #949494;
+    text-decoration: none;
+    font-weight: lighter;
+    
+}
